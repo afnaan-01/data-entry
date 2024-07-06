@@ -216,6 +216,11 @@ a {
         height: 50%;
     }
 
+    .card{
+        width: 150px;
+        height: 300px;
+    }
+
     .card > *{
         width: 90%;
         padding: 2% 0;
