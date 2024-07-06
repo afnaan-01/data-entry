@@ -212,6 +212,15 @@ a {
         margin-top: 10px;
     }
 
+    .pr-details .pr-description {
+        font-size: 105%;
+        padding-bottom: 5px;
+    }
+
+    .pr-details>a {
+        width: 90%;
+    }
+
     .pr-img{
         height: 50%;
     }
@@ -219,6 +228,10 @@ a {
     .card{
         width: 150px;
         height: 300px;
+    }
+
+    .pr-name{
+        font-size: 105%;
     }
 
     .card > *{
